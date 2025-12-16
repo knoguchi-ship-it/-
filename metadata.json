@@ -1,0 +1,5 @@
+{
+  "name": "Consultation Manager",
+  "description": "A clean, fast, and reliable consultation reception management system featuring a 3-step wizard, data persistence, and PDF generation simulation.",
+  "requestFramePermissions": []
+}
